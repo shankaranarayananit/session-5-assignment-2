@@ -1,0 +1,2 @@
+﻿var Contact = { Name: "peter", age: 20, dob: "20-01-1990", placeofbirth: "Bangalore" };
+console.log("The Name is " + Contact['Name'] + " and age is" + Contact['age'] + " and Dob is " +Contact.dob+ " and placeofbirth is " + Contact.placeofbirth);
